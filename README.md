@@ -10,7 +10,7 @@ testrpc</br>
 
 After npm install, to run lite-server, use the command: npm run start
 
-## Ethereum Remix:
+### Ethereum Remix:
 Smart Contract developed using Solidity and Ethereum IDE Remix https://remix.ethereum.org/</br></br>
 
 TODO: Add Events and function Modifiers
