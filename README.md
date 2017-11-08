@@ -3,6 +3,9 @@ Ethereum Web3 Smart Contract Interface
 
 ## Tools used in this project:
 
+Interface developed using Nodejs and Web3 </br>
+npm install web3</br></br>
+
 Ethereum TestRpc:</br>
 npm install -g ethereum-testrpc</br>
 testrpc</br>
